@@ -15,3 +15,4 @@
   - team：团队页面。
   - index.md：封面页面。
 
+- [前端监控项目docs页面](https://lemonadeccc.github.io/MonitorSystem-Docs/)
