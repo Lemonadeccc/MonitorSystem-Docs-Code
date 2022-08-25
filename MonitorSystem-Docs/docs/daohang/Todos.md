@@ -1,4 +1,4 @@
-## ToDOs
+# TODOs
 
 ## 已完成
 
@@ -20,7 +20,7 @@
 ### 第二次commit (未完成)
 
 ```
-集成代码质量风格规范（ESlint、prettier）
+集成代码质量风格规范（ESlint后来未用、prettier）
 ```
 
 ### 第三次commit （8/1）

@@ -19,7 +19,7 @@ features:
     details: Vue3/Vite/Pinia/TypeScript/Windi/Scss
   - icon: 🖖
     title: 后端技术栈
-    details: Node.js/MySQL
+    details: Node.js/Koa/InfluxDB/TypeORM
   - icon: 🛠️
     title: 其他技术
     details: Mock/Swagger/VueUse

@@ -13,7 +13,7 @@
 - [小组项目问题与分工-第二回讨论](https://nfr2wq9psg.feishu.cn/wiki/wikcnxoza6whtLFdWCLdL632mfh?appStyle=UI4&domain=www.feishu.cn&locale=zh-CN&tabName=space&theme=light&userId=7123148176311271425)
 - [项目整体规划（基础）](https://nfr2wq9psg.feishu.cn/wiki/wikcnsKRMGDg3wribNSALqWUiwe?appStyle=UI4&domain=www.feishu.cn&locale=zh-CN&tabName=space&theme=light&userId=7123148176311271425)
 
-- [本项目直播答疑](https://nfr2wq9psg.feishu.cn/wiki/wikcn1frEWFZJiMGBMVNPvAiOUg?appStyle=UI4&domain=www.feishu.cn&locale=zh-CN&tabName=space&theme=light&userId=7123148176311271425)
+- [本项目问题直播答疑](https://nfr2wq9psg.feishu.cn/wiki/wikcn1frEWFZJiMGBMVNPvAiOUg?appStyle=UI4&domain=www.feishu.cn&locale=zh-CN&tabName=space&theme=light&userId=7123148176311271425)
 
 - **[项目前端页面布局简要说明](https://nfr2wq9psg.feishu.cn/wiki/wikcnrUsAspgxgct5LjTotsZOqh?appStyle=UI4&domain=www.feishu.cn&locale=zh-CN&tabName=space&theme=light&userId=7123148176311271425)**
 

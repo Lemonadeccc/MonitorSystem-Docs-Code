@@ -56,10 +56,16 @@ const members = [
 <VPTeamPage>
   <VPTeamPageTitle>
     <template #title>
-      团队信息
+      团队信息及分工
     </template>
     <template #lead>
-      这是本次前端监控项目的团队成员。
+      <p>以下成员介绍及分工不分先后次序</p>
+      <p>朱宗旭：</p>
+      <p>羊芳震：</p>
+      <p>施颖杰：</p>
+      <p>唐欣霖：</p>
+      <p>张文晋：</p>
+      <p>以下是本次前端监控项目的团队成员。</p>
     </template>
   </VPTeamPageTitle>
   <VPTeamMembers

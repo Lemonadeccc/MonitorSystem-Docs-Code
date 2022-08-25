@@ -24,18 +24,16 @@ export default {
                 text: '工作原理',
                 items: [
                     {text: '项目结构', link: '/principle/structer.md'},
-                    // {text: '编辑器', link: '/principle/index'},
-                    // {text: '共享库', link: '/principle/index'},
-                    // {text: '模块', link: '/principle/index'},
-                    {text: '模拟API', link: '/principle/mockAPI'},
+                    {text: 'SDK介绍', link: '/principle/sdkIntroduction.md'},
+                    // {text: '模拟API', link: '/principle/mockAPI'},
                 ]
             },
-            {
-                text: '示例',
-                items: [
-                    {text: '如何创建模块', link: '/example/tutorial.md'},
-                ]
-            },
+            // {
+            //     text: '示例',
+            //     items: [
+            //         {text: '创建模块', link: '/example/tutorial.md'},
+            //     ]
+            // },
             {
                 text: '其他',
                 items: [
